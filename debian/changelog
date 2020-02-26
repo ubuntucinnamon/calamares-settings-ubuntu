@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:20.04.2) focal; urgency=medium
+
+  * Feature freeze changes (fix bugs)
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 26 Feb 2020 16:23:11 -0500
+
 calamares-settings-ubuntu (1:20.04.1) focal; urgency=medium
 
   * Welcome to Focal Fossa!
