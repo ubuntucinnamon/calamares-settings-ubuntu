@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:20.04.3) focal; urgency=medium
+
+  * Add logo.png (got lost somehow)
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 28 Feb 2020 19:33:42 -0500
+
 calamares-settings-ubuntu (1:20.04.2) focal; urgency=medium
 
   * Feature freeze changes (fix bugs)
