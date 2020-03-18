@@ -1,3 +1,10 @@
+calamares-settings-ubuntu (1:20.04.4) focal; urgency=medium
+
+  * Due to not being able to provide slideshow, thank you slide added
+  * (hopefully) Fixed desktop icon
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 18 Mar 2020 19:07:00 -0500
+
 calamares-settings-ubuntu (1:20.04.3) focal; urgency=medium
 
   * Add logo.png (got lost somehow)
