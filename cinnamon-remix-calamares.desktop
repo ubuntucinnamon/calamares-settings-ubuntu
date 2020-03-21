@@ -1,4 +1,5 @@
 [Desktop Entry]
+Name=Install cinnamon-remix 20.04
 Type=Application
 Version=1.0
 _Name=Install cinnamon-remix 20.04
@@ -9,4 +10,4 @@ Icon=calamares
 Terminal=false
 StartupNotify=true
 Categories=Qt;System;
-Keywords=installer;calamares;system;
+Keywords=installer;calamares;system;install

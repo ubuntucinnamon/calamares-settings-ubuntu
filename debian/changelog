@@ -1,3 +1,10 @@
+calamares-settings-ubuntu (1:20.04.5) focal; urgency=medium
+
+  * Fix desktop icons
+  * Fix debian/control
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 21 Mar 2020 11:56:59 -0500
+
 calamares-settings-ubuntu (1:20.04.4) focal; urgency=medium
 
   * Due to not being able to provide slideshow, thank you slide added
