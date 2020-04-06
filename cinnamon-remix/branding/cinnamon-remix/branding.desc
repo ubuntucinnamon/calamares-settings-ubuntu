@@ -1,7 +1,9 @@
 ---
 componentName: cinnamon-remix
 
-windowExpanding:    fullscreen
+windowExpanding:    normal
+windowSize: 800px,520px
+windowPlacement: center
 
 strings:
     productName:         cinnamon-remix
