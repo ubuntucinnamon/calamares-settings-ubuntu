@@ -2,7 +2,7 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
 Files: *
 Copyright: 2014 Rohan Garg <shadeslayer@systems>
-           2017-2018 Ubuntu Cinnamon Developers <ubuntucinnamonremix7@gmail.com>
+           2019 - 2020 Ubuntu Cinnamon Remix Developers <ubuntucinnamonremix7@gmail.com>
 License: GPL-3+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
