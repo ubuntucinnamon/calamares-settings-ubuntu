@@ -1,3 +1,10 @@
+calamares-settings-ubuntu (1:20.10.1) groovy; urgency=medium
+
+  * Welcome to the Groovy Gorilla! Let the fun begin!
+  * Update standards-version to 4.5.0
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 12:02:09 -0400
+
 calamares-settings-ubuntu (1:20.04.6) focal; urgency=low
 
   [Arun Pyasi]
@@ -6,7 +13,7 @@ calamares-settings-ubuntu (1:20.04.6) focal; urgency=low
   [Joshua Peisach]
   * Fix our copyright email
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 05 Apr 2020 22:23:57 -0500 
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 05 Apr 2020 22:23:57 -0500
 
 calamares-settings-ubuntu (1:20.04.5) focal; urgency=medium
 

@@ -6,7 +6,7 @@ Uploaders: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Build-Depends: debhelper (>= 12),
                intltool,
                qttools5-dev-tools
-Standards-Version: 4.4.0
+Standards-Version: 4.5.0
 Rules-Requires-Root: no
 Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
 Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/calamares-settings-ubuntu
