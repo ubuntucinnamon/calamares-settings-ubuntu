@@ -10,9 +10,9 @@ strings:
     shortProductName:    cinnamon-remix
     version:             20.10
     shortVersion:        groovy
-    versionedName:       cinnamon-remix
-    shortVersionedName:  cinnamon-remix 20.10
-    bootloaderEntryName: Ubuntu
+    versionedName:       Ubuntu Cinnamon Remix
+    shortVersionedName:  Ubuntu Cinnamon Remix 20.10
+    bootloaderEntryName: Ubuntu Cinnamon Remix
     productUrl:          https://ubuntucinnamon.org/
     supportUrl:          https://ubuntucinnamon.org/
 

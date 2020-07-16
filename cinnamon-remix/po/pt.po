@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2018-07-10 02:36-0500\n"
 "PO-Revision-Date: 2018-07-14 20:36+0000\n"
 "Last-Translator: Luís Rafael Gomes <jyotigomes@gmail.com>\n"
-"Language-Team: Portuguese <https://translate.ubuntucinnamon.org/projects/cinnamon-remix/"
+"Language-Team: Portuguese <https://translate.ubuntucinnamon.org/projects/Ubuntu Cinnamon Remix/"
 "calamares-settings-cinnamon-remix-desktop/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,12 @@ msgstr ""
 "X-Generator: Weblate 3.1-dev\n"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:1
-msgid "Install cinnamon-remix 20.10"
-msgstr "Instalar o cinnamon-remix 20.10"
+msgid "Install Ubuntu Cinnamon Remix 20.10"
+msgstr "Instalar o Ubuntu Cinnamon Remix 20.10"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:2
-msgid "Install cinnamon-remix"
-msgstr "Instalar o cinnamon-remix"
+msgid "Install Ubuntu Cinnamon Remix"
+msgstr "Instalar o Ubuntu Cinnamon Remix"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:3
 msgid "Calamares — System Installer"
