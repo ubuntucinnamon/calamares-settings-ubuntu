@@ -15,8 +15,8 @@ msgstr ""
 "X-Generator: Weblate 3.1-dev\n"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:1
-msgid "Install cinnamon-remix 20.04"
-msgstr "Instalar cinnamon-remix 20.04"
+msgid "Install cinnamon-remix 20.10"
+msgstr "Instalar cinnamon-remix 20.10"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:2
 msgid "Install cinnamon-remix"

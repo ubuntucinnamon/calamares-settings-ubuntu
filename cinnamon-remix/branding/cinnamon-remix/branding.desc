@@ -8,10 +8,10 @@ windowPlacement: center
 strings:
     productName:         cinnamon-remix
     shortProductName:    cinnamon-remix
-    version:             20.04
-    shortVersion:        focal
+    version:             20.10
+    shortVersion:        groovy
     versionedName:       cinnamon-remix
-    shortVersionedName:  cinnamon-remix 20.04
+    shortVersionedName:  cinnamon-remix 20.10
     bootloaderEntryName: Ubuntu
     productUrl:          https://ubuntucinnamon.org/
     supportUrl:          https://ubuntucinnamon.org/
