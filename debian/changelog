@@ -1,3 +1,12 @@
+calamares-settings-ubuntu (1:20.10.2) groovy; urgency=medium
+
+  * Remove d/compat for debhelper-compat
+
+  * Convert cinnamon-remix mostly to Ubuntu Cinnamon Remix
+  * Play 'system-ready' sound when installer is ready
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 16 Jul 2020 19:03:05 -0400
+
 calamares-settings-ubuntu (1:20.10.1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
