@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:20.10.2.1) groovy; urgency=medium
+
+  * Revert system-ready sound commit
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 23 Jul 2020 11:50:55 -0400
+
 calamares-settings-ubuntu (1:20.10.2) groovy; urgency=medium
 
   * Remove d/compat for debhelper-compat
