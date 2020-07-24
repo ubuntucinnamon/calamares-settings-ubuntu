@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Install Ubuntu Cinnamon Remix 20.10
+Name=Install Ubuntu Cinnamon Remix 20.04.1 LTS
 Type=Application
 Version=1.0
-_Name=Install Ubuntu Cinnamon Remix 20.10
+_Name=Install Ubuntu Cinnamon Remix 20.04.1 LTS
 _GenericName=Install Ubuntu Cinnamon Remix
 Exec=bash -c "export BROWSER='sudo -H -u cinnamon-remix firefox'; sudo -E calamares"
 _Comment=Calamares — System Installer

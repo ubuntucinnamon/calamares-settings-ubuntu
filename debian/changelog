@@ -1,3 +1,10 @@
+calamares-settings-ubuntu (1:20.10.3~focal) focal; urgency=medium
+
+  * Continue to fix cinnamon-remix -> Ubuntu Cinnamon Remix
+  * 20.04.1 Rebuild
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Jul 2020 12:16:59 -0400
+
 calamares-settings-ubuntu (1:20.10.2.1) groovy; urgency=medium
 
   * Revert system-ready sound commit
