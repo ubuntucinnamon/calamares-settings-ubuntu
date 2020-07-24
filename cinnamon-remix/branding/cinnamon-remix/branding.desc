@@ -1,13 +1,13 @@
 ---
-componentName: cinnamon-remix
+componentName: Ubuntu Cinnamon Remix
 
 windowExpanding:    normal
 windowSize: 800px,520px
 windowPlacement: center
 
 strings:
-    productName:         cinnamon-remix
-    shortProductName:    cinnamon-remix
+    productName:         Ubuntu Cinnamon Remix
+    shortProductName:    Ubuntu Cinnamon Remix
     version:             20.10
     shortVersion:        groovy
     versionedName:       Ubuntu Cinnamon Remix
