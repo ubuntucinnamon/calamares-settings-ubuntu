@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Ubuntu Cinnamon Developers <ubuntucinnamonremix7@gmail.com>
 Uploaders: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Build-Depends: debhelper (>= 12),
-               debhelper-compat (= 13),
+               debhelper-compat (= 12),
                intltool,
                qttools5-dev-tools
 Standards-Version: 4.5.0
