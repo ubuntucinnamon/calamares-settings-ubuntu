@@ -9,7 +9,7 @@ strings:
     productName:         Ubuntu Cinnamon Remix
     shortProductName:    Ubuntu Cinnamon Remix
     version:             20.04.1 LTS
-    shortVersion:        groovy
+    shortVersion:        focal
     versionedName:       Ubuntu Cinnamon Remix
     shortVersionedName:  Ubuntu Cinnamon Remix 20.04.1 LTS
     bootloaderEntryName: Ubuntu Cinnamon Remix
