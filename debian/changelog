@@ -1,3 +1,10 @@
+calamares-settings-ubuntu (1:20.10.4) focal; urgency=medium
+
+  * Change username: cinnamon-remix -> ubuntucinnamonremix (live session)
+  * Fix missing groovy -> focal for focal overall rebuild
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 28 Jul 2020 15:44:25 -0400
+
 calamares-settings-ubuntu (1:20.10.3.1) focal; urgency=medium
 
   * Launchpad rebuild
