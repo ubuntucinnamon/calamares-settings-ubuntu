@@ -25,7 +25,7 @@ GenericName[no]=Installer Ubuntu Cinnamon Remix
 GenericName[pl]=Zainstaluj Ubuntu Cinnamon Remix
 GenericName[pt]=Instalar o Ubuntu Cinnamon Remix
 GenericName[pt_BR]=Instalar Ubuntu Cinnamon Remix
-Exec=bash -c "export BROWSER='sudo -H -u cinnamon-remix firefox'; sudo -E calamares"
+Exec=bash -c "export BROWSER='sudo -H -u ubuntucinnamonremix firefox'; sudo -E calamares"
 Comment=Calamares — System Installer
 Comment[ar]=الحبار — منصب النظام
 Comment[ca]=Calamares — Instal·lador del Sistema

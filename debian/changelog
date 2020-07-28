@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:20.10.3.1) focal; urgency=medium
+
+  * Launchpad rebuild
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 10:55:51 -0400
+
 calamares-settings-ubuntu (1:20.10.3~focal) focal; urgency=medium
 
   * Continue to fix cinnamon-remix -> Ubuntu Cinnamon Remix
