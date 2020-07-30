@@ -1,5 +1,5 @@
 ---
-componentName: Ubuntu Cinnamon Remix
+componentName: cinnamon-remix
 
 windowExpanding:    normal
 windowSize: 800px,520px
