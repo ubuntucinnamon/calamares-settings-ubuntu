@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:20.10.5) focal; urgency=medium
+
+  * Fix componentName
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 30 Jul 2020 11:44:58 -0400
+
 calamares-settings-ubuntu (1:20.10.4) focal; urgency=medium
 
   * Change username: cinnamon-remix -> ubuntucinnamonremix (live session)
