@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:20.10.6) focal; urgency=high
+
+  * Unnoticed regression fix: Fix home directory for calamares logging.
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 16 Aug 2020 11:10:20 -0400
+
 calamares-settings-ubuntu (1:20.10.5) focal; urgency=medium
 
   * Fix componentName
