@@ -1,40 +1,46 @@
+calamares-settings-ubuntu (1:20.10.7) groovy; urgency=medium
+
+  * Groovy rebulid for Feature Freeze
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Aug 2020 12:42:32 -0400
+
 calamares-settings-ubuntu (1:20.10.6) focal; urgency=high
 
   * Unnoticed regression fix: Fix home directory for calamares logging.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 16 Aug 2020 11:10:20 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 16 Aug 2020 11:10:20 -0400
 
 calamares-settings-ubuntu (1:20.10.5) focal; urgency=medium
 
   * Fix componentName
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 30 Jul 2020 11:44:58 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 30 Jul 2020 11:44:58 -0400
 
 calamares-settings-ubuntu (1:20.10.4) focal; urgency=medium
 
   * Change username: cinnamon-remix -> ubuntucinnamonremix (live session)
   * Fix missing groovy -> focal for focal overall rebuild
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 28 Jul 2020 15:44:25 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 28 Jul 2020 15:44:25 -0400
 
 calamares-settings-ubuntu (1:20.10.3.1) focal; urgency=medium
 
   * Launchpad rebuild
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 10:55:51 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 27 Jul 2020 10:55:51 -0400
 
 calamares-settings-ubuntu (1:20.10.3~focal) focal; urgency=medium
 
   * Continue to fix cinnamon-remix -> Ubuntu Cinnamon Remix
   * 20.04.1 Rebuild
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Jul 2020 12:16:59 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Jul 2020 12:16:59 -0400
 
 calamares-settings-ubuntu (1:20.10.2.1) groovy; urgency=medium
 
   * Revert system-ready sound commit
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 23 Jul 2020 11:50:55 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 23 Jul 2020 11:50:55 -0400
 
 calamares-settings-ubuntu (1:20.10.2) groovy; urgency=medium
 
@@ -43,14 +49,14 @@ calamares-settings-ubuntu (1:20.10.2) groovy; urgency=medium
   * Convert cinnamon-remix mostly to Ubuntu Cinnamon Remix
   * Play 'system-ready' sound when installer is ready
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 16 Jul 2020 19:03:05 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 16 Jul 2020 19:03:05 -0400
 
 calamares-settings-ubuntu (1:20.10.1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
   * Update standards-version to 4.5.0
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 12:02:09 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 12:02:09 -0400
 
 calamares-settings-ubuntu (1:20.04.6) focal; urgency=low
 
@@ -60,33 +66,33 @@ calamares-settings-ubuntu (1:20.04.6) focal; urgency=low
   [Joshua Peisach]
   * Fix our copyright email
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 05 Apr 2020 22:23:57 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 05 Apr 2020 22:23:57 -0500
 
 calamares-settings-ubuntu (1:20.04.5) focal; urgency=medium
 
   * Fix desktop icons
   * Fix debian/control
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 21 Mar 2020 11:56:59 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 21 Mar 2020 11:56:59 -0500
 
 calamares-settings-ubuntu (1:20.04.4) focal; urgency=medium
 
   * Due to not being able to provide slideshow, thank you slide added
   * (hopefully) Fixed desktop icon
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 18 Mar 2020 19:07:00 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 18 Mar 2020 19:07:00 -0500
 
 calamares-settings-ubuntu (1:20.04.3) focal; urgency=medium
 
   * Add logo.png (got lost somehow)
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 28 Feb 2020 19:33:42 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 28 Feb 2020 19:33:42 -0500
 
 calamares-settings-ubuntu (1:20.04.2) focal; urgency=medium
 
   * Feature freeze changes (fix bugs)
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 26 Feb 2020 16:23:11 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Feb 2020 16:23:11 -0500
 
 calamares-settings-ubuntu (1:20.04.1) focal; urgency=medium
 
@@ -98,14 +104,14 @@ calamares-settings-ubuntu (1:20.04.1) focal; urgency=medium
 
   * Began work on fixups
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 24 Dec 2019 17:26:00 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 24 Dec 2019 17:26:00 -0500
 
 calamares-settings-ubuntu (1:19.10.10) eoan; urgency=medium
 
   * Initial release
   * Changed cinnamon-remix Images to Ubuntu Cinnamon Images
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 18:53:00 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 15 Nov 2019 18:53:00 -0400
 
 calamares-settings-ubuntu (1:19.10.9) eoan; urgency=medium
 
