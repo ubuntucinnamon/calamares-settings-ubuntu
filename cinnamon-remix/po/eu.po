@@ -13,11 +13,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 2.3.0\n"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:1
-msgid "Install cinnamon-remix 20.04"
+msgid "Install Ubuntu Cinnamon Remix 20.04.2"
 msgstr ""
 
 #: ../cinnamon-remix-calamares.desktop.in.h:2
-msgid "Install cinnamon-remix"
+msgid "Install Ubuntu Cinnamon Remix"
 msgstr ""
 
 #: ../cinnamon-remix-calamares.desktop.in.h:3
