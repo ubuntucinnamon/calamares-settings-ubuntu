@@ -3,11 +3,10 @@ Section: devel
 Priority: optional
 Maintainer: Ubuntu Cinnamon Developers <ubuntucinnamonremix7@gmail.com>
 Uploaders: Joshua Peisach <itzswirlz2020@outlook.com>
-Build-Depends: debhelper (>= 12),
-               debhelper-compat (= 13),
+Build-Depends: debhelper-compat (= 13),
                intltool,
                qttools5-dev-tools
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
 Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/calamares-settings-ubuntu
