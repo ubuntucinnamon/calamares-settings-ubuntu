@@ -8,10 +8,10 @@ windowPlacement: center
 strings:
     productName:         Ubuntu Cinnamon Remix
     shortProductName:    Ubuntu Cinnamon Remix
-    version:             20.10
-    shortVersion:        groovy
+    version:             21.04
+    shortVersion:        hirsute
     versionedName:       Ubuntu Cinnamon Remix
-    shortVersionedName:  Ubuntu Cinnamon Remix 20.10
+    shortVersionedName:  Ubuntu Cinnamon Remix 21.04
     bootloaderEntryName: Ubuntu Cinnamon Remix
     productUrl:          https://ubuntucinnamon.org/
     supportUrl:          https://ubuntucinnamon.org/
