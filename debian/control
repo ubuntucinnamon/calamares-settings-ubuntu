@@ -13,7 +13,7 @@ Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/calamares-settings-ubuntu
 Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/calamares-settings-ubuntu.git
 
 Package: calamares-settings-cinnamon-remix
-Architecture: all
+Architecture: amd64 arm64 mips64el ppc64el s390x
 Depends: calamares-settings-ubuntu-common (>= ${binary:Version}),
          ${misc:Depends}
 Conflicts: calamares-settings-cinnamon-remix
@@ -24,7 +24,7 @@ Description: cinnamon-remix Calamares Settings and Branding
  cinnamon desktop environment.
 
 Package: calamares-settings-ubuntu-common
-Architecture: any
+Architecture: amd64 arm64 mips64el ppc64el s390x
 Depends: calamares (>= 3.2.14~),
          squashfs-tools,
          python3,
