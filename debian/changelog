@@ -1,3 +1,12 @@
+calamares-settings-ubuntu (1:21.10) impish; urgency=medium
+
+  * Support more 64-bit architectures
+
+  * Impish rebranding
+  * Impish rebuild
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 24 Apr 2021 18:56:15 -0400
+
 calamares-settings-ubuntu (1:21.04) hirsute; urgency=medium
 
   * 21.04 Hirsute Hippo Rebranding
