@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Install Ubuntu Cinnamon Remix 21.04
+Name=Install Ubuntu Cinnamon Remix 21.10
 Type=Application
 Version=1.0
-_Name=Install Ubuntu Cinnamon Remix 21.04
+_Name=Install Ubuntu Cinnamon Remix 21.10
 _GenericName=Install Ubuntu Cinnamon Remix
 Exec=bash -c "export BROWSER='sudo -H -u ubuntucinnamonremix firefox'; sudo -E calamares"
 _Comment=Calamares — System Installer
