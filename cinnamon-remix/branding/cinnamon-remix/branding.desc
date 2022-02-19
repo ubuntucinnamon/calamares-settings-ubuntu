@@ -8,10 +8,10 @@ windowPlacement: center
 strings:
     productName:         Ubuntu Cinnamon Remix
     shortProductName:    Ubuntu Cinnamon
-    version:             20.04.3
+    version:             20.04.4
     shortVersion:        focal
     versionedName:       Ubuntu Cinnamon Remix
-    shortVersionedName:  Ubuntu Cinnamon Remix 20.04.3 "Focal Fossa"
+    shortVersionedName:  Ubuntu Cinnamon Remix 20.04.4 "Focal Fossa"
     bootloaderEntryName: Ubuntu
     productUrl:          https://ubuntucinnamon.org/
     supportUrl:          https://ubuntucinnamon.org/
