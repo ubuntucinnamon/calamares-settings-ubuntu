@@ -1,3 +1,9 @@
+calamares-settings-ubuntu (1:22.09) focal; urgency=medium
+
+  * 20.04.5 rebranding
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 01 Sep 2022 20:57:22 -0400
+
 calamares-settings-ubuntu (1:22.02) focal; urgency=medium
 
   * 20.04.4 rebranding

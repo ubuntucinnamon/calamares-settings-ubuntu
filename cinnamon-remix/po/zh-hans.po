@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:1
-msgid "Install Ubuntu Cinnamon Remix 20.04.4"
+msgid "Install Ubuntu Cinnamon Remix 20.04.5"
 msgstr ""
 
 #: ../cinnamon-remix-calamares.desktop.in.h:2

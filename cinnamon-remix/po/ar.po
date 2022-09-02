@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: Weblate 3.1-dev\n"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:1
-msgid "Install Ubuntu Cinnamon Remix 20.04.4"
+msgid "Install Ubuntu Cinnamon Remix 20.04.5"
 msgstr "تنصيب لوبينتو 20.04"
 
 #: ../cinnamon-remix-calamares.desktop.in.h:2
